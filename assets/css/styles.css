@@ -7,3 +7,12 @@ body, body{
 html{
     font-family: "Open Sans", sans-serif;
 }
+
+i{
+    color: white;
+    align-self: center;
+}
+
+.card-img-top{
+    height: 120px;
+}
