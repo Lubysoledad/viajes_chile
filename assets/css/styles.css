@@ -4,9 +4,9 @@ body, body{
     border: 0;
 }
 
-html{
-    font-family: "Open Sans", sans-serif;
-}
+html {
+    scroll-behavior: smooth;
+  }
 
 i{
     color: white;
